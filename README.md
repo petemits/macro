@@ -7,7 +7,7 @@
 **Entry Point**: `not detected`  
 **Codebase**: 1 source files, 430 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 1 class(es): BrowserMacroRecorder, 11 function(s): check_install, create_scheduled_task, __init__, record_macro, show_macro_info
+**Key Components**: 1 class(es): BrowserMacroRecorder, 11 function(s): play_macro, save_macro, run_interactive, show_macro_info, auto_type_text
 
 WORKING BROWSER MACRO RECORDER - No keyboard module needed
 
@@ -24,9 +24,9 @@ WORKING BROWSER MACRO RECORDER - No keyboard module needed
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Enterprise Architect
+## 🧠 My Approach: The Sustainability Coder
 
-I bring deep technical rigor and a commitment to enterprise‑grade software engineering. My focus is on building systems that are **scalable, secure, and maintainable** – the kind of infrastructure that large organisations depend on.
+I build green software. I minimise energy consumption, reduce carbon footprint, and design for environmental sustainability.
 
 ### 📌 My Focus & Track Record
 - **Role**: Automation Architect
@@ -38,22 +38,23 @@ I bring deep technical rigor and a commitment to enterprise‑grade software eng
 ### 🎯 Why This Project Exists
 **macro** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Employers**: I deliver production‑ready code with comprehensive testing, clear documentation, and adherence to industry standards. I am ready to join a team where I can drive system reliability and architectural excellence.
+**For ESG Initiatives**: I help you achieve your carbon‑neutral goals through efficient code.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
 
-1. Market Intelligence: Automate competitive price monitoring and product availability tracking.
+1. Compliance Monitoring: Continuously validate regulatory information on public websites.
 2. Lead Generation: Extract high‑value B2B leads from public directories.
-3. Compliance Monitoring: Continuously validate regulatory information on public websites.
+3. Market Intelligence: Automate competitive price monitoring and product availability tracking.
 
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
-- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
-- Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
-- Scalability: Designed to handle growing volumes without proportional cost increases.
+- Resource Optimisation: Maximises output while minimising input, improving overall efficiency.
+- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
+- High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
+- Market Agility: Enables rapid iteration and deployment of new features.
+- Effortless Maintenance: Designed for easy updates, patching, and long‑term supportability.
 - Risk Reduction: Automates compliance checks and error‑prone processes, minimising human error.
 
 ### 🔗 Integrations
@@ -61,13 +62,9 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
 - CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
-- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
-- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
-- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
 - Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
+- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
 
 
 ## 📁 Project Structure
@@ -89,3 +86,16 @@ No run command detected
 - **Missing dependencies**: Ensure prerequisites are installed and in your PATH.
 - **Port conflicts**: If using a web server, check that the port is free.
 - **Configuration**: Double-check your `.env` or config files.
+
+## 📬 Contact & Collaboration
+
+**Name**: mis p  
+**Phone**: +1 647-717-0929  
+**Email**: [amit.mits.puri@gmail.com](mailto:amit.mits.puri@gmail.com)  
+
+I am open to freelance, contract, and full‑time opportunities. Feel free to reach out directly.
+
+> **💡 Want a contact form?**  
+> You can easily add a contact form to your GitHub Pages site using a free service like [Formspree](https://formspree.io/).  
+> Just create a `contact.html` page, embed the form, and it will forward messages to this email.  
+> *I can help you set that up if needed.*
