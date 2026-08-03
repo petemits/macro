@@ -1,7 +1,7 @@
 
-## 🚀 The Machine Learning Engineer
+## 🚀 The AI Architect
 
-With a portfolio spanning diverse AI projects – from automation pipelines and conversational agents to data analytics and cloud‑native architectures – I am equipped to step into the role of **Machine Learning Engineer** with confidence.
+With a portfolio spanning diverse AI projects – from automation pipelines and conversational agents to data analytics and cloud‑native architectures – I am equipped to step into the role of **AI Architect** with confidence.
 
 This repository is a testament to my ability to:
 - Design and deliver production‑grade AI solutions.
@@ -27,7 +27,7 @@ I bring **deep technical expertise**, a **commercial mindset**, and a **track re
 **Entry Point**: `not detected`  
 **Codebase**: 1 source files, 430 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 1 class(es): BrowserMacroRecorder, 11 function(s): start_recording, save_macro, auto_type_text, __init__, play_macro
+**Key Components**: 1 class(es): BrowserMacroRecorder, 11 function(s): main, show_macro_info, create_scheduled_task, start_recording, auto_type_text
 
 WORKING BROWSER MACRO RECORDER - No keyboard module needed
 
@@ -44,9 +44,9 @@ WORKING BROWSER MACRO RECORDER - No keyboard module needed
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The UX Guardian
+## 🧠 My Approach: The Enterprise Architect
 
-I believe beautiful, intuitive interfaces are a competitive advantage. I build frontends that users love, with accessibility and performance baked in.
+I bring deep technical rigor and a commitment to enterprise‑grade software engineering. My focus is on building systems that are **scalable, secure, and maintainable** – the kind of infrastructure that large organisations depend on.
 
 ### 📌 My Focus & Track Record
 - **Role**: Automation Architect
@@ -58,9 +58,16 @@ I believe beautiful, intuitive interfaces are a competitive advantage. I build f
 ### 🎯 Why This Project Exists
 **macro** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Product Teams**: I translate user needs into responsive, pixel‑perfect experiences that drive engagement and retention.
+**For Employers**: I deliver production‑ready code with comprehensive testing, clear documentation, and adherence to industry standards. I am ready to join a team where I can drive system reliability and architectural excellence.
 
 I am open to conversations about how I can apply this mindset to your organisation.
+
+## 📌 Real Usage Examples
+
+- Automate browser interactions for testing, data scraping, or repetitive form submissions.
+- Run scheduled monitoring of competitor websites to track prices or inventory.
+- Control desktop applications or simulate user input for QA automation.
+- Wrap this module as a library or plugin for seamless integration into larger applications.
 ## 🎯 Revenue‑Generating Use Cases
 
 1. Compliance Monitoring: Continuously validate regulatory information on public websites.
@@ -70,25 +77,23 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
+- Resilience Against Failures: Builds redundancy and fault‑tolerance, so systems never stop.
+- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
+- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
+- Continuous Deployment: Enables safe, automated, and frequent releases to production.
 - High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
-- Faster Time‑to‑Market: Reduces development cycles, allowing you to beat competitors to launch.
-- User Retention: Enhances customer experience through personalisation and faster response times.
-- Sustainable Architecture: Reduces energy consumption, aligning technology with environmental goals.
-- Real‑Time Monitoring & Observability: Provides deep system visibility, enabling proactive issue resolution.
-- Actionable Business Insights: Transforms raw metrics into strategic intelligence.
-- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
-- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
+- Scalability: Designed to handle growing volumes without proportional cost increases.
+- Reduced Technical Debt: Maintains clean, modular, and well‑tested codebases that are easy to extend.
 
 ### 🔗 Integrations
 - Host Operating System (files, environment, processes)
 
 ## 📈 Scale to SaaS & Beyond
 
+- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
 - Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
 - Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
-- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
+- Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
